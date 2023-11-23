@@ -1,5 +1,5 @@
 PasswordValidator
-
+! ONLY DESKTOP VERSION !
 live: https://password-validator.netlify.app/
 
 A simple form created during learning JavaScript. 
